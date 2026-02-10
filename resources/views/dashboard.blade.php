@@ -29,6 +29,8 @@
   
         <h1 class="m-3">Dashboard</h1>
 
+        <p>{{$info}}</p>
+
     </main>
 </body>
 </html>
